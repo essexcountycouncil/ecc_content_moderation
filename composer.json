@@ -1,0 +1,6 @@
+{
+    "name": "ecc_content_moderation/ecc_content_moderation",
+    "description": "Shared Drupal content moderation functionality for Essex County Council",
+    "type": "drupal-module",
+    "homepage": "https://github.com/essexcountycouncil/ecc_content_moderation"
+}
